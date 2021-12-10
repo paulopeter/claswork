@@ -1,0 +1,32 @@
+*{background-color: black;
+  color: aliceblue;
+}
+
+.container-1{
+    display: flex;
+    padding-top: 100px;
+    margin-left: 50px;
+    
+}
+
+
+.container-2{
+    display: flex;
+    padding-top: 50px;
+
+    height: 1000px;
+    margin-left: 50px;
+}
+
+.img-3{margin-left: 170px;}
+
+p{width: 200px;}
+
+.img-2{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+
+h3{margin-left: 200px;
+padding-top: 50px;}
